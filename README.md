@@ -75,7 +75,7 @@
 <p align="center">
 	<a href="yoshuatecun7@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/yoshuaingn/yoshuaingn"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://github.com/yoshuaingn/yoshuaingn"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/yoshua-ingnacio-tec%C3%BAn-marroqu%C3%ADn-1136bb21a/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
 
 <hr/>
