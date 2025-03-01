@@ -1,0 +1,168 @@
+{
+  "Usuario": [
+    {
+      "ID": 1,
+      "Nombres": "Juan",
+      "Apellidos": "Pérez",
+      "Correo": "juan.perez@mail.com",
+      "Contrasenia": "123456"
+    },
+    {
+      "ID": 2,
+      "Nombres": "María",
+      "Apellidos": "Gómez",
+      "Correo": "maria.gomez@mail.com",
+      "Contrasenia": "password123"
+    },
+    {
+      "ID": 3,
+      "Nombres": "Carlos",
+      "Apellidos": "López",
+      "Correo": "carlos.lopez@mail.com",
+      "Contrasenia": "securepass"
+    },
+    {
+      "ID": 4,
+      "Nombres": "Ana",
+      "Apellidos": "Rodríguez",
+      "Correo": "ana.rodriguez@mail.com",
+      "Contrasenia": "mypassword"
+    },
+    {
+      "ID": 5,
+      "Nombres": "Luis",
+      "Apellidos": "Sánchez",
+      "Correo": "luis.sanchez@mail.com",
+      "Contrasenia": "strongpass"
+    },
+    {
+      "ID": 6,
+      "Nombres": "Sofía",
+      "Apellidos": "Martínez",
+      "Correo": "sofia.martinez@mail.com",
+      "Contrasenia": "safe123"
+    },
+    {
+      "ID": 7,
+      "Nombres": "Pedro",
+      "Apellidos": "González",
+      "Correo": "pedro.gonzalez@mail.com",
+      "Contrasenia": "easyPass"
+    },
+    {
+      "ID": 8,
+      "Nombres": "Laura",
+      "Apellidos": "Fernández",
+      "Correo": "laura.fernandez@mail.com",
+      "Contrasenia": "simplepass"
+    }
+  ],
+  "Vehiculos": [
+    {
+      "ID": 1,
+      "ID_Usuario": 1,
+      "Marca": "Toyota",
+      "Modelo": "Corolla",
+      "Placa": "ABC123"
+    },
+    {
+      "ID": 2,
+      "ID_Usuario": 2,
+      "Marca": "Ford",
+      "Modelo": "Focus",
+      "Placa": "XYZ456"
+    },
+    {
+      "ID": 3,
+      "ID_Usuario": 1,
+      "Marca": "Honda",
+      "Modelo": "Civic",
+      "Placa": "DEF789"
+    },
+    {
+      "ID": 4,
+      "ID_Usuario": 3,
+      "Marca": "Chevrolet",
+      "Modelo": "Cruze",
+      "Placa": "GHI012"
+    },
+    {
+      "ID": 5,
+      "ID_Usuario": 5,
+      "Marca": "Nissan",
+      "Modelo": "Sentra",
+      "Placa": "JKL345"
+    },
+    {
+      "ID": 6,
+      "ID_Usuario": 6,
+      "Marca": "Volkswagen",
+      "Modelo": "Jetta",
+      "Placa": "MNO678"
+    },
+    {
+      "ID": 7,
+      "ID_Usuario": 7,
+      "Marca": "Hyundai",
+      "Modelo": "Elantra",
+      "Placa": "PQR901"
+    },
+    {
+      "ID": 8,
+      "ID_Usuario": 8,
+      "Marca": "Kia",
+      "Modelo": "Rio",
+      "Placa": "STU234"
+    }
+  ],
+  "Repuestos": [
+    {
+      "ID": 1,
+      "Repuesto": "Filtro de aceite",
+      "Detalles": "Filtro de aceite para motor 1.8L",
+      "Costo": 15.75
+    },
+    {
+      "ID": 2,
+      "Repuesto": "Bujías",
+      "Detalles": "Juego de bujías para motor 2.0L",
+      "Costo": 30.50
+    },
+    {
+      "ID": 3,
+      "Repuesto": "Frenos delanteros",
+      "Detalles": "Pastillas y discos de freno delanteros",
+      "Costo": 85.20
+    },
+    {
+      "ID": 4,
+      "Repuesto": "Neumáticos",
+      "Detalles": "Juego de neumáticos para coche",
+      "Costo": 200.00
+    },
+    {
+      "ID": 5,
+      "Repuesto": "Batería",
+      "Detalles": "Batería para coche",
+      "Costo": 95.00
+    },
+    {
+      "ID": 6,
+      "Repuesto": "Filtro de aire",
+      "Detalles": "Filtro de aire para motor",
+      "Costo": 12.50
+    },
+    {
+      "ID": 7,
+      "Repuesto": "Correa de distribución",
+      "Detalles": "Correa de distribución para motor",
+      "Costo": 60.00
+    },
+    {
+      "ID": 8,
+      "Repuesto": "Bomba de agua",
+      "Detalles": "Bomba de agua para motor",
+      "Costo": 75.00
+    }
+  ]
+}
